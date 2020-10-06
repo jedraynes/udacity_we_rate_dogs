@@ -5,4 +5,6 @@ Data is sourced in three formats: CSV, TSV, and via the Twitter API. The CSV and
 
 The data was gathered, assessed, and cleaned prior to analysis. Afterwhich, two final reports were completed: one report formed as an internal document outlining the data wrangling completed and a second report formed as an external document where insights and visualization were reported.
 
+Packages used: tweepy, pandas, numpy, requests, json, matplotlib, timeit.
+
 jedraynes
