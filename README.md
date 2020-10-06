@@ -7,4 +7,6 @@ The data was gathered, assessed, and cleaned prior to analysis. Afterwhich, two 
 
 Packages used: tweepy, pandas, numpy, requests, json, matplotlib, timeit.
 
+Languages used: Python via Jupyter Notebook.
+
 jedraynes
